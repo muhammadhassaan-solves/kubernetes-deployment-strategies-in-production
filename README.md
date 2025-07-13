@@ -17,27 +17,27 @@ This project showcases real-world Kubernetes deployment strategies including Blu
 
 <p align="center">
 1. Deploy version "v1" of the app and expose with nodeport <br />
-<img src="https://i.postimg.cc/m2L09HTp/1.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/m2L09HTp/1.jpg" />
 <br />
 <br />
 2. Launch v2 (Green) alongside v1 (Blue) <br/>
-<img src="https://i.postimg.cc/1zBFf2Bj/2.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/1zBFf2Bj/2.jpg" />
 <br />
 <br />
 3. Switch traffic to v2 (green) <br/>
-<img src="https://i.postimg.cc/3x7FLPLt/3.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/3x7FLPLt/3.jpg" />
 <br />
 <br />
 4. Rollback to v1(blue) <br/>
-<img src="https://i.postimg.cc/NjpmdL20/4.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/NjpmdL20/4.jpg"/>
 <br />
 <br />
 5. Implement Canary rollout with traffic splitting <br/>
-<img src="https://i.postimg.cc/rFprKMPX/5.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/rFprKMPX/5.jpg" />
 <br />
 <br />
 6. Perform complete rollout and rollback using bash scripts <br/>
-<img src="https://i.postimg.cc/hjkKg86t/6.jpg" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/hjkKg86t/6.jpg" />
 <br />
 <br />
 
